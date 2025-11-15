@@ -1,7 +1,7 @@
 #  Mean and variance of a discrete  distribution
-Developed By: Sanjana J 
+Developed By: Esakkindhar A
 
-Register Number: 212224230240
+Register Number: 212224040085
 # Aim : 
 
 To find mean and variance of arrival of objects from the feeder using probability distribution
